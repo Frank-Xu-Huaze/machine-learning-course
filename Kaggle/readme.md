@@ -10,4 +10,6 @@ Link to the competition: https://www.kaggle.com/c/solar-pv-in-aerial-imagery
 
 4. The training process is going to take 20 ~ 40 min depends on your CPU.
 
-5. For further information and questions please email: frankxu0124@gmail.com
+5. The report is Kaggle_Report_TeamC.pdf, including the roles of each team members.
+
+6. For further information and questions please email: frankxu0124@gmail.com
